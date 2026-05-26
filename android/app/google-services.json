@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "791769530597",
+    "project_id": "skymain-c0827",
+    "storage_bucket": "skymain-c0827.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791769530597:android:f46d8e59d544446917940c",
+        "android_client_info": {
+          "package_name": "com.example.skychat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFsbdQruBQB97kzh2Mpeb1NxStQFU8P4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
